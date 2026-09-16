@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dundulaworld.aternos.me
-",
+    "ip": "dundulaworld.aternos.me",
     "port": 35523,
     "version": "",
     "try-creative": false
